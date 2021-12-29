@@ -28,7 +28,7 @@ experience:
     company_logo: org-gc
     location: Philippines
     date_start: '2021-03-15'
-    date_end: '2121-09-21'
+    date_end: '2021-09-21'
     description: |2-
         Responsibilities include:
         

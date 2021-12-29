@@ -30,15 +30,14 @@ item:
   organization: Udemy
   organization_url: https://www.udemy.org
   title:Master SQL With PhpMyAdmin and MYSQL Engine
-  url: "https://www.udemy.com/certificate/UC-fef5041f-7d38-412a-ae73-2b2b0acd83a8/"
-- certificate_url: https://www.edx.org
-  date_end: ""
-  date_start: "2021-01-01"
-  description: Formulated informed blockchain models, hypotheses, and use cases.
-  organization: edX
-  organization_url: https://www.edx.org
-  title: Blockchain Fundamentals
-  url: https://www.edx.org/professional-certificate/uc-berkeleyx-blockchain-fundamentals
+  url: "https://www.udemy.com/certificate/UC-bda996c0-f1c1-4968-a032-758d8732655e/
+  date_end: "2020-08-15"
+  date_start: "2020-08-25"
+  description: Build a Complete Website with HTML5 & CSS3.
+  organization: Udemy
+  organization_url: https://www.udemy.org
+  title: Advanced Web Developer Course: Beginner to Advanced
+  url: https://www.udemy.com/certificate/UC-bda996c0-f1c1-4968-a032-758d8732655e/
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"

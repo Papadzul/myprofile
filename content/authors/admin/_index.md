@@ -1,27 +1,28 @@
 ---
-bio: My research interests include distributed robotics, mobile computing and programmable
-  matter.
+bio: Certified International Mathematics Teacher
 education:
   courses:
-  - course: PhD in Artificial Intelligence
-    institution: Stanford University
-    year: 2012
-  - course: MEng in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2009
-  - course: BSc in Artificial Intelligence
-    institution: Massachusetts Institute of Technology
-    year: 2008
-email: ""
-highlight_name: false
+  - course: PhD in Education Development
+    institution: Central Luzon State Univeristy
+    year: 2021
+  - course: MAEd Mathematics
+    institution: Meycauayan College
+    year: 2014
+  - course: MS Information Technology
+    institution: Bulacan State University
+    year: 2013
+email: "denizcbs@gmail.com"
+highlight_name: true
 interests:
-- Artificial Intelligence
-- Computational Linguistics
-- Information Retrieval
+- Academic Research
+- Instructional Design
+- Statistics
+- Data Science
+- App development
 organizations:
-- name: Stanford University
-  url: https://www.stanford.edu/
-role: Professor of Artificial Intelligence
+- name: SUPERIOR USD
+  url: https://www.superior.com/
+role: MATHEMATICS TEACHER
 social:
 - icon: envelope
   icon_pack: fas

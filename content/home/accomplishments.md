@@ -24,8 +24,8 @@ date_format: Jan 2006
 #   Begin multi-line descriptions with YAML's `|2-` multi-line prefix.
 item:
 - certificate_url: https://www.udemy.com/certificate/UC-fef5041f-7d38-412a-ae73-2b2b0acd83a8/
-  date_end: ""
-  date_start: "2021-01-25"
+  date_end: "2020-08-27"
+  date_start: "2020-08-20"
   description: ""
   organization: Udemy
   organization_url: https://www.udemy.org

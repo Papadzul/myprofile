@@ -19,7 +19,7 @@ content:
   # Email form provider
   form:
     provider: formspree
-    formspree:
+    formspree: https://formspree.io/f/xnqwndvz
       id: cabaisdennis@yahoo.com
     netlify:
       # Enable CAPTCHA challenge to reduce spam?

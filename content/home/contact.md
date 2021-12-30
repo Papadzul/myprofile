@@ -20,7 +20,7 @@ content:
   form:
     provider: formspree
     formspree: https://formspree.io/f/xnqwndvz
-      id: cabaisdennis@yahoo.com
+      id: https://formspree.io/f/xnqwndvz
     netlify:
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false

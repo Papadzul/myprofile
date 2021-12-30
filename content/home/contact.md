@@ -21,7 +21,7 @@ content:
     provider: formspree
     formspree:
       id: https://formspree.io/f/xnqwndvz
-    netlify:
+    netlify: https://cavaiz.netlify.app/
       # Enable CAPTCHA challenge to reduce spam?
       captcha: false
   

@@ -30,14 +30,7 @@ item:
   organization: Udemy
   organization_url: https://www.udemy.org
   title: Master SQL With PhpMyAdmin and MYSQL Engine
-- certificate_url: https://www.udemy.com/certificate/UC-bda996c0-f1c1-4968-a032-758d8732655e/
-  date_end: "2020-08-15"
-  date_start: "2020-08-25"
-  description: "Build a Complete Website with HTML5 & CSS3"
-  organization: Udemy
-  organization_url: https://www.udemy.org
-  title: Advanced Web Developer Course: Beginner to Advanced
-  url: https://www.udemy.com/certificate/UC-bda996c0-f1c1-4968-a032-758d8732655e/
+
 - certificate_url: https://www.datacamp.com
   date_end: "2020-12-21"
   date_start: "2020-07-01"

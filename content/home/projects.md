@@ -1,9 +1,8 @@
-activate: false
 ---
 # An instance of the Portfolio widget.
 # Documentation: https://wowchemy.com/docs/page-builder/
 widget: portfolio
-
+activate: false
 # This file represents a page section.
 headless: true
 

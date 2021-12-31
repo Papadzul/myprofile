@@ -41,7 +41,7 @@ social:
   link: https://github.com/papadzul
 - icon: linkedin
   icon_pack: fab
-  link: https://www.linkedin.com/mr-denniz-9aab571b3
+  link: https://www.linkedin.com/in/mr-denniz-9aab571b3
 superuser: true
 title: Dennis Cabais
 ---

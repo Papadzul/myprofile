@@ -50,4 +50,4 @@ Dennis Cabais is a certified international mathematics teacher. His interests in
 
 His previous post includes Master Teacher at DepEd PH, Principal at National University.
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/decabaisresume.pdf" "newtab" >}}resumé{{< /staticref >}}.
